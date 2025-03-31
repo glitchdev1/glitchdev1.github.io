@@ -5,7 +5,7 @@ layout: default
 this is glitchhacc's website currently work in progress
 
 ## iOS Brawl
-  <button onclick="window.location.href='https://t.me/iosbrawlhacc';">iOS Brawl</button>
+ https://t.me/iosservers
   ## iOS Brawl Credits v1-v4
 v1-v4= Primodevhacc's Obiad Brawl
  <li class="masthead__menu-item">
