@@ -4,6 +4,8 @@ title: very normal friends
 description: very normal not weird at all
 ---
 ## i have normal friends
+## Nevo
+runs the minecraft server and is best friends with shay😃
 ## Matan
 Matan is short and likes to jerk off to melodie
 ## Assi
