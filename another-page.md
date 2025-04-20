@@ -4,6 +4,8 @@ title: very normal friends
 description: very normal not weird at all
 ---
 ## i have normal friends
+## Rotem
+sigma. good at pvp and is very short irl
 ## Nevo
 runs the minecraft server and is best friends with shay😃
 ## Matan
